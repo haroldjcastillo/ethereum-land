@@ -1,6 +1,6 @@
 # Ethereum-land
 
-In this project I have created an `Ethereum` consumer and a `Smart Contract` like an exmple
+In this project I have created an `Ethereum` consumer and a `Smart Contract`
 
 1. Install MetaMask Chrome Extension see this web site https://metamask.io/.
 
